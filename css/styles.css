@@ -657,6 +657,7 @@ img {
     box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 2px 1px rgba(0, 0, 0, 0.2);
     border-radius: 4px;
     padding: 24px;
+    padding-top: 72px;
 
     transform: translate(-50%, -50%) scale(1);
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
@@ -668,8 +669,6 @@ img {
     line-height: 1.5;
     text-align: center;
     letter-spacing: 0.02em;
-    margin-top: 24px;
-    padding-top: 24px;
     margin-bottom: 10px;
     color: var(--navy-blue-color);
 }
@@ -758,6 +757,7 @@ img {
     line-height: 1.33;
     letter-spacing: 0.04em;
     color: var(--subtle-text-color);
+    margin-bottom: 4px;
 }
 
 textarea {
